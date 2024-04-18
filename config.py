@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @guardianofheavens
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @guardianofheavens
 
 
 import re
@@ -11,9 +11,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @guardianofheavens
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @guardianofheavens
 
 
 id_pattern = re.compile(r'^.\d+$')
